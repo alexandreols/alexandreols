@@ -15,7 +15,7 @@
 <h1 align="center">Olá, eu sou o Alexandre👋🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/alexandre-oliveira-5ba53a126/)
+)](https://www.linkedin.com/in/alexandreols/)
   <a 
     ></h1>
 
